@@ -81,7 +81,7 @@ O projeto utilizou ferramentas de IA Generativa (**ChatGPT, Claude e Gemini**) c
 ## 👥 Desenvolvedores
 * **Gabriel** - [Seu GitHub aqui](https://github.com/gabrielmarchesano)
 * **Luis Gustavo** - [GitHub do Colega aqui](https://github.com/Jiccartz)
-* * **Nicolas** - [GitHub do Colega aqui](https://github.com/WinRaaar)
+* **Nicolas** - [GitHub do Colega aqui](https://github.com/WinRaaar)
 
 ---
 <p align="center">
