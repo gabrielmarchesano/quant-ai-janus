@@ -1,6 +1,8 @@
 # Janus: Dual Strategy – Relatório Final Desafio Quant-AI Itaú 2025
 <div align="center">
+  
 ![Janus Robot](img/ImagemRobo.png)
+
 </div>
 ## 🤖 Sobre o Janus
 O **Janus** é um robô de investimentos focado em ações da B3 (Universo IBrA). O nome é uma homenagem ao deus romano das transições, Jano, que possui duas faces. Essa dualidade reflete a arquitetura do modelo: uma "face" observa a tendência macro (passado recente), enquanto a outra aguarda o momento tático de entrada (recuo de curto prazo).
@@ -17,7 +19,9 @@ A estratégia, denominada **Dual Strategy**, aloca capital dinamicamente baseand
 
 ### Fluxograma da Lógica
 <div align="center">
+  
 ![Fluxograma da Lógica Janus](img/fluxogramaJanus.png)
+
 </div>
 ---
 
@@ -50,8 +54,10 @@ Os testes abrangeram um período de **25.8 anos**, comprovando a capacidade de g
 * **Profit Factor:** 1.49x 
 * **Ratio Lucro/Prejuízo:** 2.86x 
 <div align="center">
+  
 ![Gráfico Evolução do Capital](img/lucroJanus.png)
 ![Gráfico de Drawdown](img/DrawDownJanus.png)
+
 </div>
 ---
 
