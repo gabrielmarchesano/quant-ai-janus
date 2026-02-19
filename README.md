@@ -31,24 +31,24 @@ O modelo utiliza um **Filtro de Tendência Macro** (baseado na porcentagem de at
 ---
 
 ## 🛡️ Gestão de Risco
-[cite_start]O gerenciamento de risco é calibrado individualmente por estratégia usando o **ATR (Average True Range)**[cite: 13]:
+O gerenciamento de risco é calibrado individualmente por estratégia usando o **ATR (Average True Range)**:
 
 | Estratégia | Risco Máximo (Capital Total) | Regra de Saída |
 | :--- | :--- | :--- |
-| **Tendência (TEND)** | 1.5% | [cite_start]Trailing Stop Móvel (2.5x ATR) [cite: 13, 16] |
-| **Reversão (REV)** | 0.3% | [cite_start]Alvo Fixo (3x Risco) ou Keltner Superior [cite: 13, 15] |
+| **Tendência (TEND)** | 1.5% | Trailing Stop Móvel (2.5x ATR)  |
+| **Reversão (REV)** | 0.3% | Alvo Fixo (3x Risco) ou Keltner Superior |
 
 ---
 
 ## 📊 Resultados e Performance
-[cite_start]Os testes abrangeram um período de **25.8 anos**, comprovando a capacidade de gerar **Alpha** com risco controlado[cite: 27, 28].
+Os testes abrangeram um período de **25.8 anos**, comprovando a capacidade de gerar **Alpha** com risco controlado.
 
 ### Métricas Consolidadas (2000 - 2025)
-* [cite_start]**Retorno Anual Médio (CAGR):** 12.68% [cite: 19]
-* [cite_start]**Retorno Total:** 2066.63% [cite: 19]
-* [cite_start]**Máximo Drawdown:** -38.74% (significativamente menor que o Ibovespa histórico) [cite: 19, 28]
-* [cite_start]**Profit Factor:** 1.49x [cite: 19, 21]
-* [cite_start]**Ratio Lucro/Prejuízo:** 2.86x [cite: 19, 30]
+* **Retorno Anual Médio (CAGR):** 12.68% 
+* **Retorno Total:** 2066.63% 
+* **Máximo Drawdown:** -38.74% (significativamente menor que o Ibovespa histórico) 
+* **Profit Factor:** 1.49x 
+* **Ratio Lucro/Prejuízo:** 2.86x 
 
 ![Gráfico Evolução do Capital](INSERIR_LINK_DO_GRAFICO_DE_CAPITAL_AQUI)
 ![Gráfico de Drawdown](INSERIR_LINK_DO_GRAFICO_DE_DRAWDOWN_AQUI)
@@ -56,18 +56,18 @@ O modelo utiliza um **Filtro de Tendência Macro** (baseado na porcentagem de at
 ---
 
 ## 🧠 Desenvolvimento e IA
-[cite_start]O projeto utilizou ferramentas de IA Generativa (**ChatGPT, Claude e Gemini**) como apoio técnico[cite: 37, 38]:
-* [cite_start]Depuração e otimização de código Python[cite: 41].
-* [cite_start]Calibragem de parâmetros (scores e métricas de risco) e análise de sensibilidade no backtest[cite: 43].
-* [cite_start]Criação de identidade visual e auxílio na estruturação do relatório[cite: 40, 43].
+O projeto utilizou ferramentas de IA Generativa (**ChatGPT, Claude e Gemini**) como apoio técnico:
+* Depuração e otimização de código Python[cite: 41].
+* Calibragem de parâmetros (scores e métricas de risco) e análise de sensibilidade no backtest.
+* Criação de identidade visual e auxílio na estruturação do relatório.
 
-> [cite_start]**Nota:** Todas as respostas geradas por IA foram submetidas à análise crítica e supervisão humana para corrigir inconsistências lógicas ou erros conceituais[cite: 39, 46, 47].
+> **Nota:** Todas as respostas geradas por IA foram submetidas à análise crítica e supervisão humana para corrigir inconsistências lógicas ou erros conceituais.
 
 ---
 
 ## 🚀 Desafios Futuros
-* [cite_start]Otimização da performance em regimes de mercado lateral/neutro, onde o Profit Factor tende a cair[cite: 31].
-* [cite_start]Implementação de filtros por setores para aumentar a resiliência e diversificação da carteira[cite: 31].
+* Otimização da performance em regimes de mercado lateral/neutro, onde o Profit Factor tende a cair.
+* Implementação de filtros por setores para aumentar a resiliência e diversificação da carteira.
 
 ---
-[cite_start]*Este projeto foi desenvolvido para o Desafio Quant-AI Itaú 2025.* [cite: 1]
+*Este projeto foi desenvolvido para o Desafio Quant-AI Itaú 2025.* 
