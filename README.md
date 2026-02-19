@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Janus: Dual Strategy – Relatório Final Desafio Quant-AI Itaú 2025</h1>
-  <img src="img/ImagemRobo.png" alt="Janus Robot" width="500">
+  <img src="img/ImagemRobo.png" alt="Janus Robot" width="500" align="center">
 </p>
 
 ## 🤖 Sobre o Janus
