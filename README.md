@@ -2,7 +2,7 @@
 
 ![Janus Robot](INSERIR_LINK_DA_IMAGEM_DO_ROBO_AQUI)
 ## 🤖 Sobre o Janus
-[cite_start]O **Janus** é um robô de investimentos focado em ações da B3 (Universo IBrA)[cite: 5, 6]. [cite_start]O nome é uma homenagem ao deus romano das transições, Jano, que possui duas faces[cite: 3]. [cite_start]Essa dualidade reflete a arquitetura do modelo: uma "face" observa a tendência macro (passado recente), enquanto a outra aguarda o momento tático de entrada (recuo de curto prazo)[cite: 3].
+[cite_start] O **Janus** é um robô de investimentos focado em ações da B3 (Universo IBrA)[cite: 5, 6]. [cite_start]O nome é uma homenagem ao deus romano das transições, Jano, que possui duas faces[cite: 3]. [cite_start]Essa dualidade reflete a arquitetura do modelo: uma "face" observa a tendência macro (passado recente), enquanto a outra aguarda o momento tático de entrada (recuo de curto prazo)[cite: 3].
 
 [cite_start]O projeto foi desenvolvido como um modelo quantitativo adaptativo que busca superar as limitações de estratégias monométricas através do conceito de **Regime Switching**[cite: 5, 6].
 
